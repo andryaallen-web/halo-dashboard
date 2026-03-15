@@ -1,5 +1,5 @@
 import React from 'react'
-import HALO from './HALO_Dashboard_v8'
+import HALO from './HALO_Dashboard_v8.js'
 import './index.css'
 
 function App() {
