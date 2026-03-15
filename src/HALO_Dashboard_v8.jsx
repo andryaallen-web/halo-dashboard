@@ -1237,3 +1237,6 @@ const S = {
   content:{padding:"18px 24px 36px"},
   footer:{textAlign:"center",padding:"14px 24px 22px",fontSize:10,color:"#8A80A8",letterSpacing:0.3},
 };
+
+
+export default HALO;
